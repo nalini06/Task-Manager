@@ -24,7 +24,7 @@ const showTasks = async () => {
 
 
 
-<!-- edit link -->
+
 <a href="task.html?id=${taskID}"  class="edit-link">
 <i class="fas fa-edit"></i>
 </a>
